@@ -2,3 +2,4 @@ hello
 Hello world!
 12345
 こんにちはアニョハセヨハロー！
+Gitの勉強中です
